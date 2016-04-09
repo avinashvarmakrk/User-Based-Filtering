@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Mining Assignment 1
-"""
+
 
 import math
 
